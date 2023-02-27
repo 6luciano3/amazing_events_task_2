@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f80677;
+ }
+
+a.nav-link {
+    color: #000000;
+} 
+
+.navbar-brand {
+    border-color: #eee;
+}
+
+.nav-link {
+    background-color: #eee;
+}
+
+a nav link {
+    color: #000000;
+}
+
+.slide-nav{
+    background-color: #626073;
+    color: #ffffff;
+    height: 150px;
+}
+
+.arrow-icon{ 
+    font-size: 3rem;
+    color: #faf8f9;
+}
+
+.arrow-icon:hover{
+    color: #000000;
+}
+
+.btn-custom{
+    color: #db076b;
+    border-color:#db076b;
+}
+
+.btn-custom:hover{
+    background-color: #000000;
+}
+
+a.text-muted i.bi{
+    font-size: 1.3rem;;
+}
+
+a.text-muted i.bi:hover{
+    color: #5177c7;
+}
+
+th[colspan]{
+    background-color: #fbfcfd;
+}
+
+
+
